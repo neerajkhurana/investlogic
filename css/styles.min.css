@@ -20,12 +20,13 @@
 		top:-45px;
 	}
 	.header-logo-wrapper a img
-	{
+	{/*
 		width: 150px!important;
-		height: 40px!important;
+		height: 40px!important;*/
 		position: relative!important;
-		left:27%;
-		top:30%;
+		top:-22px;
+		/*left:27%;
+		top:30%;*/
 
 	}
 
